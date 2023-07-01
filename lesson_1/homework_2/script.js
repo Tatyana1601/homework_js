@@ -1,4 +1,3 @@
-const question = prompt('Яка ширина блока у пікселях');
-const result = '100px';
+const result = prompt('Яка ширина блока у пікселях');
 const num = parseInt(result);
 console.log(num);
